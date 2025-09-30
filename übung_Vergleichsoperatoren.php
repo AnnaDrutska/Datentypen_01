@@ -68,7 +68,7 @@ else
     echo 'Beide sind kein Boolean <br>'; //alle beide sind keinerlei boolean oder nullen
 }
 
-// Prüfe, ob dein Wort (String) den Text,"Hello World" beinhaltet. falls nicht, ändere ihn und lass dir die Variable als echo
+// Prüfe, ob dein Wort (String) den Text "Hello World" beinhaltet. Falls nicht, ändere ihn und lass dir die Variable als echo
 
 if (str_contains($Wort, "Hello World")) {
     echo "Das $Wort beinhaltet Hello World <br>";
