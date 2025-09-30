@@ -1,2 +1,2 @@
 <?php
-// Anna ist cool :)
+// Anna ist cool :))
